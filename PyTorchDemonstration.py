@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Need to install torch and torchvision before running
 """
 Created on Thu Oct 19 10:24:23 2023
 
-@author: jeremyrubin
+@author: Coding Apes
 """
 
 import torch
